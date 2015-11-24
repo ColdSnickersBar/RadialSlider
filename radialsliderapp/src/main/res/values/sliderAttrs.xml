@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SliderView">
+        <attr name="center_x" format="float" />
+        <attr name="center_y" format="float" />
+        <attr name="sweep_start" format="float" />
+        <attr name="sweep_end" format="float" />
+    </declare-styleable>
+</resources>
